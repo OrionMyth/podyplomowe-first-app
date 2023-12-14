@@ -5,7 +5,8 @@ public class Main {
     public static void main(String[] args) {
         int a = 5;
         int b = 6;
-        int wynik = a + b;
+        int c = 34;
+        int wynik = a + b + c;
         System.out.println("wynik: " + wynik);
 
         }
