@@ -9,6 +9,7 @@ public class Main {
         int d = 44;
         int wynik = a + b + c - d;
         System.out.println("wynik: " + wynik);
+        System.out.println("Eldoka na wolno");
 
         }
     }
